@@ -83,7 +83,7 @@ counters.forEach(number => {
 				if(start == end) {
 					clearInterval(interval);
 				}
-			}, 10);
+			}, 7);
 		}
 	});
 });
